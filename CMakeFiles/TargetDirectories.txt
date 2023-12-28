@@ -1,0 +1,3 @@
+/Users/german/Library/CloudStorage/Dropbox/Projects/CV_Cpp/CMakeFiles/MyProject.dir
+/Users/german/Library/CloudStorage/Dropbox/Projects/CV_Cpp/CMakeFiles/edit_cache.dir
+/Users/german/Library/CloudStorage/Dropbox/Projects/CV_Cpp/CMakeFiles/rebuild_cache.dir
